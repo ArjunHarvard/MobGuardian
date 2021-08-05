@@ -1,0 +1,26 @@
+<annotation>
+	<folder>spartan_1</folder>
+	<filename>spartan_046.jpg</filename>
+	<path>C:\Users\arjun.ARJUNSINGH-SB2-\Pictures\HALO\spartan_1\spartan_046.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spartan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>125</ymin>
+			<xmax>172</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

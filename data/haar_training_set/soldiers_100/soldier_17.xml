@@ -1,0 +1,26 @@
+<annotation>
+	<folder>soldiers_100</folder>
+	<filename>soldier_17.jpg</filename>
+	<path>C:\Users\arjun.ARJUNSINGH-SB2-\Pictures\soldiers_100\soldier_17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soldier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>120</ymin>
+			<xmax>169</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>
